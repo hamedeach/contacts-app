@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
+const dummText ='Hello Its me';
 function App() {
   return (
     <div className="App">
@@ -22,4 +23,22 @@ function App() {
   );
 }
 
+function testfunc() {
+  /*// my code 
+  const myFirstReactElement = React.createElement(
+    'div',
+    null,
+    'Hello World !!'
+  );
+
+  ReactDOM.render(
+    myFirstReactElement,
+    document.getElementById('root')
+  );*/
+
+
+  ///////////////////////
+
+
+}
 export default App;
